@@ -1,0 +1,37 @@
+{
+  "product_name": "Laptop",
+  "features": [
+    {
+      "name": "Section 1",
+      "bonus": { "role1": 12, "role2": -0.35, "role3": 100 }
+    },
+    {
+      "name": "Section 2",
+      "bonus": { "role1": -34.5, "role2": 21, "role3": 1 }
+    },
+    {
+      "name": "Section 3",
+      "bonus": { "role1": 1, "role2": 151, "role3": 1 }
+    },
+    {
+      "name": "Ports",
+      "bonus": { "role1": -0.5, "role2": 199, "role3": -0.5 }
+    },
+    {
+      "name": "Guacamole",
+      "bonus": { "role1": 13, "role2": 1, "role3": 155 }
+    },
+    {
+      "name": "Fine Camel Hair Brush",
+      "bonus": { "role1": 13, "role2": -0.5, "role3": 12 }
+    },
+    {
+      "name": "Jorge",
+      "bonus": { "role1": -0.5, "role2": -0.5, "role3": -0.5 }
+    },
+    {
+      "name": "Borges",
+      "bonus": { "role1": 15.8, "role2": -5000, "role3": -3.5 }
+    }
+  ]
+}
