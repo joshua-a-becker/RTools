@@ -2,35 +2,35 @@
   "product_name": "Laptop",
   "features": [
      {
-        "name": "Feature 1",
+        "name": "Fast Charging",
         "bonus": {"role1":1, "role2": -0.7, "role3": -0.7}
      },
      {
-        "name": "Feature 2",
+        "name": "Ultra Thin",
         "bonus": {"role1":-0.7, "role2": 1, "role3": -0.7}
      },
      {
-        "name": "Feature 3",
+        "name": "AI Enhanced",
         "bonus": {"role1":-0.7, "role2": -0.7, "role3": 1}
       },
      {
-        "name": "Feature 4",
+        "name": "Long Battery Life",
         "bonus": {"role1":1, "role2": -0.7, "role3": -0.7}
      },
      {
-        "name": "Feature 5",
+        "name": "Ultra Lightweight",
         "bonus": {"role1":1, "role2": 1, "role3": -0.7}
      },
      {
-        "name": "Feature 6",
+        "name": "Gaming Ready",
         "bonus": {"role1":-0.7, "role2": 1, "role3": -0.7}
     },
     {
-        "name": "Feature 7",
+        "name": "Mchanical Keyboard",
         "bonus": {"role1":-0.7, "role2": -0.7, "role3": -0.7}
     },
     {
-        "name": "Feature 8",
+        "name": "Solid State Disk",
         "bonus": {"role1":-0.7, "role2": -0.7, "role3": 1}
     }
   ]
