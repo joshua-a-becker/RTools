@@ -19,7 +19,8 @@
             "name": "Cucumber Water",
             "bonus": {"role1":1, "role2": -0.7, "role3": -0.7}
          }
-      ]
+      ],
+      "task_brief": "This is a demonstration round, nobody else is here yet. <br/> <br/>You will be given a scenario in the game where you must reach agreement with other players on a set of features to include in a product.  <br/> <br/>For this demo, imagine that you are planning a lunch.<br/> <br/>You prefer some items, and want to avoid others.<br/> <br/>Desired features earn you money, and undesired features cost you money.<br/><br/> <br/>Excluding features costs nothing. <br/><br/> <br/>In the discussion stage, any player can make as many informal proposals as they want.  These don't count for anything<br/>• After 10 minutes, this project leader will propose a final, <strong>official vote</strong>.  <br/> <br/>Only the final vote will determine your earnings.<br/><br/>"
    }, 
    "pilot_complex" : {
       "product_name": "Laptop",
