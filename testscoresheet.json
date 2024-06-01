@@ -44,6 +44,7 @@
     },
     "pilot_complex": {
         "product_name": "Laptop",
+        "source": "1509_3_2 results_pwc_pareto.csv",
         "roleNames": {
             "role1": "Product Head",
             "role2": "Designer",
