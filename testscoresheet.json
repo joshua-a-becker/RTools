@@ -130,7 +130,7 @@
 		},
 		"features": [
 			{
-				"name": "Name 1",
+				"name": "Fast Charging",
 				"bonus": {
 					"role1": 1.05,
 					"role2": -0.85,
@@ -138,7 +138,7 @@
 				}
 			},
 			{
-				"name": "Name 1",
+				"name": "Ultra Thin",
 				"bonus": {
 					"role1": 1.05,
 					"role2": -0.85,
@@ -146,7 +146,7 @@
 				}
 			},
 			{
-				"name": "Name 1",
+				"name": "AI Enhanced",
 				"bonus": {
 					"role1": -0.85,
 					"role2": -0.85,
@@ -154,7 +154,7 @@
 				}
 			},
 			{
-				"name": "Name 1",
+				"name": "Long Battery Life",
 				"bonus": {
 					"role1": 1.05,
 					"role2": 1.05,
@@ -162,7 +162,7 @@
 				}
 			},
 			{
-				"name": "Name 1",
+				"name": "Ultra Lightweight",
 				"bonus": {
 					"role1": -0.85,
 					"role2": -0.85,
@@ -170,7 +170,7 @@
 				}
 			},
 			{
-				"name": "Name 1",
+				"name": "Gaming Ready",
 				"bonus": {
 					"role1": -0.85,
 					"role2": 1.05,
@@ -178,7 +178,7 @@
 				}
 			},
 			{
-				"name": "Name 1",
+				"name": "Mechanical Keyboard",
 				"bonus": {
 					"role1": 1.05,
 					"role2": -0.85,
@@ -186,7 +186,7 @@
 				}
 			},
 			{
-				"name": "Name 1",
+				"name": "Solid State Disk",
 				"bonus": {
 					"role1": -0.85,
 					"role2": -0.85,
