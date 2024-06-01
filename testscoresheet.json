@@ -115,6 +115,6 @@
                 }
             }
         ],
-        "task_brief": "You will be randomly assigned a role in a product design discussion lasting 10 minutes. <br/> <br/>You will be given a list of priorities for feature inclusion, and the bonus that you earn (or lose) for each feature. <br/> <br/><b>How you earn a bonus</b>: <br/>• Desired features earn you money. <br/>• Undesired features costs you money.<br/>• Excluding features has no impact on earnings. <br/>• A calculator is provided to assess tradeoffs. <br/> <br/>Try to earn as much as you can!   Use the chat to persuade others to include your desired features. <br/> <br/><b>How it works</b>: <br/>• Any player may propose an <strong>unofficial vote</strong> at any time.  <br/>• One player is randomly assigned project leader.   <br/>• After 10 minutes, this project leader will propose a final, <strong>official vote</strong>.  <br/>• Only the final vote will determine your earnings.<br/><br/>"
+        "task_brief": "You are a {roleName} on a team building a {productName}. <br/> <br/> Your team has been working on this product for nearly a year. You're almost there. You just have to agree on final specs, and then it goes it production. <br/> <br/> Use the chatroom and make as many informal proposals as you want to find a product you can all agree on. It won't be easy! <br/> <br/> Try to earn as much as you can! But keep in mind, you might have to give something to get something."
     }
 }
