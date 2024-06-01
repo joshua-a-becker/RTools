@@ -40,7 +40,7 @@
                 }
             }
         ],
-        "task_brief": "This is a demonstration round, nobody else is here yet. <br/> <br/>You will be given a scenario in the game where you must reach agreement with other players on a set of features to include in a product.  <br/> <br/>For this demo, imagine that you are planning a lunch.<br/> <br/>You prefer some items, and want to avoid others.<br/> <br/>Desired features earn you money, and undesired features cost you money.<br/><br/> <br/>Excluding features costs nothing. <br/><br/> <br/>In the discussion stage, any player can make as many informal proposals as they want.  These don't count for anything<br/>• After 10 minutes, this project leader will propose a final, <strong>official vote</strong>.  <br/> <br/>Only the final vote will determine your earnings.<br/><br/>"
+        "task_brief": "This is a demonstration page, you're not in the game yet. <br/><br/> You are a {roleName} here to help organize a {productName}. <br/> <br/> You need to reach agreement with other players on what to include in lunch. <br/> <br/> You prefer some items, and want to avoid others. <br/> <br/> Preferred items are worth money, and undesired items cost money. <br/> <br/> Excluding features costs nothing."
     },
     "pilot_complex": {
         "product_name": "Laptop",
