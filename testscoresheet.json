@@ -272,5 +272,82 @@
 			}
 		],
 		"task_brief": "You are a <strong>{roleName}</strong> on a team building a <strong>{productName}</strong>. <br/> <br/> Your team has been working on this product for nearly a year. You're almost there. You just have to agree on final specs, and then it goes it production. <br/> <br/> Use the chatroom and make as many informal proposals as you want to find a product you can all agree on. It won't be easy! <br/> <br/> Try to earn as much as you can! But keep in mind, you might have to give something to get something."
+	},
+	"pilot_complex_15": {
+		"product_name": "Laptop",
+		"source": "830_3_1 results_kjwc_pareto.csv 15 0.33",
+        "viable_consensus": "3",
+		"roleNames": {
+			"role1": "Product Head",
+			"role2": "Designer",
+			"role3": "Technician"
+		},
+		"features": [
+			{
+				"name": "Fast Charging",
+				"bonus": {
+					"role1": -0.85,
+					"role2": -0.85,
+					"role3": 1.05
+				}
+			},
+			{
+				"name": "Ultra Thin",
+				"bonus": {
+					"role1": -0.85,
+					"role2": 1.05,
+					"role3": 1.05
+				}
+			},
+			{
+				"name": "AI Enhanced",
+				"bonus": {
+					"role1": -0.85,
+					"role2": 1.05,
+					"role3": -0.85
+				}
+			},
+			{
+				"name": "Long Battery Life",
+				"bonus": {
+					"role1": 1.05,
+					"role2": -0.85,
+					"role3": -0.85
+				}
+			},
+			{
+				"name": "Ultra Lightweight",
+				"bonus": {
+					"role1": 1.05,
+					"role2": -0.85,
+					"role3": -0.85
+				}
+			},
+			{
+				"name": "Gaming Ready",
+				"bonus": {
+					"role1": -0.85,
+					"role2": -0.85,
+					"role3": 1.05
+				}
+			},
+			{
+				"name": "Mechanical Keyboard",
+				"bonus": {
+					"role1": 1.05,
+					"role2": -0.85,
+					"role3": -0.85
+				}
+			},
+			{
+				"name": "Solid State Disk",
+				"bonus": {
+					"role1": -0.85,
+					"role2": 1.05,
+					"role3": -0.85
+				}
+			}
+		],
+		"task_brief": "You are a <strong>{roleName}</strong> on a team building a <strong>{productName}</strong>. <br/> <br/> Your team has been working on this product for nearly a year. You're almost there. You just have to agree on final specs, and then it goes it production. <br/> <br/> Use the chatroom and make as many informal proposals as you want to find a product you can all agree on. It won't be easy! <br/> <br/> Try to earn as much as you can! But keep in mind, you might have to give something to get something."
 	}
 }
