@@ -40,7 +40,7 @@
                 }
             }
         ],
-        "task_brief": "This is a demonstration page, you're not in the game yet. <br/><br/> You are a {roleName} here to help organize a {productName}. <br/> <br/> You need to reach agreement with other players on what to include in lunch. <br/> <br/> You prefer some items, and want to avoid others. <br/> <br/> Preferred items are worth money, and undesired items cost money. <br/> <br/> Excluding features costs nothing."
+        "task_brief": "This is a <strong>demonstration page</strong>, you're not in the game yet. <br/><br/> You are a {roleName} here to help organize a {productName}. <br/> <br/> You need to reach agreement with other players on what to include in lunch. <br/> <br/> You prefer some items, and want to avoid others. <br/> <br/> Preferred items are worth money, and undesired items cost money. <br/> <br/> Excluding features costs nothing."
     },
     "pilot_complex": {
         "product_name": "Laptop",
