@@ -426,5 +426,83 @@
       }
     ],
     "task_brief": "You are a <strong>{roleName}<\/strong> on a team building a <strong>{productName}<\/strong>. <br/> <br/> Your team has been working on this product for nearly a year. You're almost there. You just have to agree on final specs, and then it goes it production. <br/> <br/> Use the chatroom and make as many informal proposals as you want to find a product you can all agree on. It won't be easy! <br/> <br/> Try to earn as much as you can! But keep in mind, you might have to give something to get something."
+  },
+    "pilot_final_easy": {
+    "product_name": "Laptop",
+    "source": "email",
+    "viable_consensus": "NA",
+    "roleNames": {
+      "role1": "Product Head",
+      "role2": "Designer",
+      "role3": "Technician"
+    },
+    "features": [
+      {
+        "name": "Fast Charging",
+        "bonus": {
+          "role1": 0.8,
+          "role2": -0.32,
+          "role3": 0.05
+        }
+      },
+      {
+        "name": "Ultra Thin",
+        "bonus": {
+          "role1": 0.55,
+          "role2": 0.73,
+          "role3": -0.7
+        }
+      },
+      {
+        "name": "AI Enhanced",
+        "bonus": {
+          "role1": -0.49,
+          "role2": -0.64,
+          "role3": 0.29
+        }
+      },
+      {
+        "name": "Long Battery Life",
+        "bonus": {
+          "role1": 0.38,
+          "role2": -0.51,
+          "role3": -0.44
+        }
+      },
+      {
+        "name": "Ultra Lightweight",
+        "bonus": {
+          "role1": -0.25,
+          "role2": -0.65,
+          "role3": -0.55
+        }
+      },
+      {
+        "name": "Gaming Ready",
+        "bonus": {
+          "role1": -0.02,
+          "role2": 0.08,
+          "role3": -0.14
+        }
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "bonus": {
+          "role1": 0.61,
+          "role2": 0.8,
+          "role3": -0.05
+        }
+      },
+      {
+        "name": "Solid State Disk",
+        "bonus": {
+          "role1": 0.62,
+          "role2": -0.53,
+          "role3": 0.79
+        }
+      }
+    ],
+    "task_brief": "You are a <strong>{roleName}<\/strong> on a team building a <strong>{productName}<\/strong>. <br/> <br/> Your team has been working on this product for nearly a year. You're almost there. You just have to agree on final specs, and then it goes it production. <br/> <br/> Use the chatroom and make as many informal proposals as you want to find a product you can all agree on. It won't be easy! <br/> <br/> Try to earn as much as you can! But keep in mind, you might have to give something to get something."
   }
+
 }
