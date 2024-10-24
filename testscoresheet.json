@@ -42,159 +42,158 @@
         ],
         "task_brief": "This is a <strong>demonstration page</strong>, you're not in the game yet. <br/><br/> You are a {roleName} here to help organize a {productName}. <br/> <br/> You need to reach agreement with other players on what to include in lunch. <br/> <br/> You prefer some items, and want to avoid others. <br/> <br/> Preferred items are worth money, and undesired items cost money. <br/> <br/> Excluding features costs nothing."
     },
-"pilot_simple_scaled": {
-    "product_name": "Laptop",
-    "source": "1023_3_2 results_kwc.csv",
-    "viable_consensus": "3",
-    "roleNames": {
-      "role1": "Product Head",
-      "role2": "Designer",
-      "role3": "Technician"
+    "pilot_hard": {
+        "product_name": "Laptop",
+        "source": "1023_3_2 results_kwc.csv",
+        "viable_consensus": "3",
+        "roleNames": {
+            "role1": "Product Head",
+            "role2": "Designer",
+            "role3": "Technician"
+        },
+        "features": [
+            {
+                "name": "Fast Charging",
+                "bonus": {
+                    "role1": 0.65,
+                    "role2": -0.86,
+                    "role3": 0.63
+                }
+            },
+            {
+                "name": "Ultra Thin",
+                "bonus": {
+                    "role1": 0.55,
+                    "role2": 0.72,
+                    "role3": -0.7
+                }
+            },
+            {
+                "name": "AI Enhanced",
+                "bonus": {
+                    "role1": -0.49,
+                    "role2": -0.64,
+                    "role3": 0.29
+                }
+            },
+            {
+                "name": "Long Battery Life",
+                "bonus": {
+                    "role1": 0.38,
+                    "role2": -0.51,
+                    "role3": 0.44
+                }
+            },
+            {
+                "name": "Light Weight",
+                "bonus": {
+                    "role1": -0.25,
+                    "role2": -0.65,
+                    "role3": 0.55
+                }
+            },
+            {
+                "name": "Gaming Ready",
+                "bonus": {
+                    "role1": -0.02,
+                    "role2": 0.08,
+                    "role3": -0.14
+                }
+            },
+            {
+                "name": "Mechanical Keyboard",
+                "bonus": {
+                    "role1": -0.61,
+                    "role2": 0.8,
+                    "role3": -0.05
+                }
+            },
+            {
+                "name": "Solid State Disk",
+                "bonus": {
+                    "role1": 0.62,
+                    "role2": -0.53,
+                    "role3": 0.79
+                }
+            }
+        ],
+        "task_brief": "You are a <strong>{roleName}<\/strong> on a team building a <strong>{productName}<\/strong>. <br/> <br/> Your team has been working on this product for nearly a year. You're almost there. You just have to agree on final specs, and then it goes it production. <br/> <br/> Use the chatroom and make as many informal proposals as you want to find a product you can all agree on. It won't be easy! <br/> <br/> Try to earn as much as you can! But keep in mind, you might have to give something to get something."
     },
-    "features": [
-      {
-        "name": "Fast Charging",
-        "bonus": {
-          "role1": -10.6,
-          "role2": -10.6,
-          "role3": 13.1
-        }
-      },
-      {
-        "name": "Ultra Thin",
-        "bonus": {
-          "role1": -10.6,
-          "role2": 13.1,
-          "role3": 13.1
-        }
-      },
-      {
-        "name": "AI Enhanced",
-        "bonus": {
-          "role1": -10.6,
-          "role2": 13.1,
-          "role3": -10.6
-        }
-      },
-      {
-        "name": "Long Battery Life",
-        "bonus": {
-          "role1": 13.1,
-          "role2": -10.6,
-          "role3": -10.6
-        }
-      },
-      {
-        "name": "Light Weight",
-        "bonus": {
-          "role1": 13.1,
-          "role2": -10.6,
-          "role3": -10.6
-        }
-      },
-      {
-        "name": "Gaming Ready",
-        "bonus": {
-          "role1": -10.6,
-          "role2": -10.6,
-          "role3": 13.1
-        }
-      },
-      {
-        "name": "Mechanical Keyboard",
-        "bonus": {
-          "role1": 13.1,
-          "role2": -10.6,
-          "role3": -10.6
-        }
-      },
-      {
-        "name": "Solid State Disk",
-        "bonus": {
-          "role1": -10.6,
-          "role2": 13.1,
-          "role3": -10.6
-        }
-      }
-    ],
-    "task_brief": "You are a <strong>{roleName}<\/strong> on a team building a <strong>{productName}<\/strong>. <br/> <br/> Your team has been working on this product for nearly a year. You're almost there. You just have to agree on final specs, and then it goes it production. <br/> <br/> Use the chatroom and make as many informal proposals as you want to find a product you can all agree on. It won't be easy! <br/> <br/> Try to earn as much as you can! But keep in mind, you might have to give something to get something."
-  },
-    "pilot_final_easy": {
-    "product_name": "Laptop",
-    "source": "email",
-    "viable_consensus": "NA",
-    "roleNames": {
-      "role1": "Product Head",
-      "role2": "Designer",
-      "role3": "Technician"
-    },
-    "features": [
-      {
-        "name": "Fast Charging",
-        "bonus": {
-          "role1": 0.8,
-          "role2": -0.32,
-          "role3": 0.05
-        }
-      },
-      {
-        "name": "Ultra Thin",
-        "bonus": {
-          "role1": 0.55,
-          "role2": 0.73,
-          "role3": -0.7
-        }
-      },
-      {
-        "name": "AI Enhanced",
-        "bonus": {
-          "role1": -0.49,
-          "role2": -0.64,
-          "role3": 0.29
-        }
-      },
-      {
-        "name": "Long Battery Life",
-        "bonus": {
-          "role1": 0.38,
-          "role2": -0.51,
-          "role3": -0.44
-        }
-      },
-      {
-        "name": "Ultra Lightweight",
-        "bonus": {
-          "role1": -0.25,
-          "role2": -0.65,
-          "role3": -0.55
-        }
-      },
-      {
-        "name": "Gaming Ready",
-        "bonus": {
-          "role1": -0.02,
-          "role2": 0.08,
-          "role3": -0.14
-        }
-      },
-      {
-        "name": "Mechanical Keyboard",
-        "bonus": {
-          "role1": 0.61,
-          "role2": 0.8,
-          "role3": -0.05
-        }
-      },
-      {
-        "name": "Solid State Disk",
-        "bonus": {
-          "role1": 0.62,
-          "role2": -0.53,
-          "role3": 0.79
-        }
-      }
-    ],
-    "task_brief": "You are a <strong>{roleName}<\/strong> on a team building a <strong>{productName}<\/strong>. <br/> <br/> Your team has been working on this product for nearly a year. You're almost there. You just have to agree on final specs, and then it goes it production. <br/> <br/> Use the chatroom and make as many informal proposals as you want to find a product you can all agree on. It won't be easy! <br/> <br/> Try to earn as much as you can! But keep in mind, you might have to give something to get something."
-  }
-
+    "pilot_easy": {
+        "product_name": "Laptop",
+        "source": "1023_3_2 results_kwc.csv",
+        "viable_consensus": "3",
+        "roleNames": {
+            "role1": "Product Head",
+            "role2": "Designer",
+            "role3": "Technician"
+        },
+        "features": [
+            {
+                "name": "Fast Charging",
+                "bonus": {
+                    "role1": 0.8,
+                    "role2": -0.32,
+                    "role3": 0.05
+                }
+            },
+            {
+                "name": "Ultra Thin",
+                "bonus": {
+                    "role1": 0.76,
+                    "role2": 0.78,
+                    "role3": -0.73
+                }
+            },
+            {
+                "name": "AI Enhanced",
+                "bonus": {
+                    "role1": -0.66,
+                    "role2": 0.94,
+                    "role3": 0.64
+                }
+            },
+            {
+                "name": "Long Battery Life",
+                "bonus": {
+                    "role1": 0.35,
+                    "role2": -0.72,
+                    "role3": 0.43
+                }
+            },
+            {
+                "name": "Light Weight",
+                "bonus": {
+                    "role1": 0.56,
+                    "role2": -0.1,
+                    "role3": 0.02
+                }
+            },
+            {
+                "name": "Gaming Ready",
+                "bonus": {
+                    "role1": -0.54,
+                    "role2": 0.57,
+                    "role3": -0.58
+                }
+            },
+            {
+                "name": "Mechanical Keyboard",
+                "bonus": {
+                    "role1": -0.69,
+                    "role2": 0,
+                    "role3": -0.9
+                }
+            },
+            {
+                "name": "Solid State Disk",
+                "bonus": {
+                    "role1": -0.63,
+                    "role2": 0.07,
+                    "role3": 0.43
+                }
+            }
+        ],
+        "task_brief": "You are a <strong>{roleName}<\/strong> on a team building a <strong>{productName}<\/strong>. <br/> <br/> Your team has been working on this product for nearly a year. You're almost there. You just have to agree on final specs, and then it goes it production. <br/> <br/> Use the chatroom and make as many informal proposals as you want to find a product you can all agree on. It won't be easy! <br/> <br/> Try to earn as much as you can! But keep in mind, you might have to give something to get something."
+    }
 }
