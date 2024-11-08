@@ -55,6 +55,83 @@
       {
         "name": "Fast Charging",
         "bonus": {
+          "role1": 1.35,
+          "role2": -2.18,
+          "role3": 2.13
+        }
+      },
+      {
+        "name": "Ultra Thin",
+        "bonus": {
+          "role1": 1.14,
+          "role2": 1.82,
+          "role3": -2.37
+        }
+      },
+      {
+        "name": "AI Enhanced",
+        "bonus": {
+          "role1": -1.01,
+          "role2": -1.62,
+          "role3": 0.98
+        }
+      },
+      {
+        "name": "Long Battery Life",
+        "bonus": {
+          "role1": 0.79,
+          "role2": -1.29,
+          "role3": 1.49
+        }
+      },
+      {
+        "name": "Light Weight",
+        "bonus": {
+          "role1": -0.52,
+          "role2": -1.65,
+          "role3": 1.86
+        }
+      },
+      {
+        "name": "Gaming Ready",
+        "bonus": {
+          "role1": -0.04,
+          "role2": 0.20,
+          "role3": -0.47
+        }
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "bonus": {
+          "role1": -1.26,
+          "role2": 2.02,
+          "role3": -0.17
+        }
+      },
+      {
+        "name": "Solid State Disk",
+        "bonus": {
+          "role1": 1.28,
+          "role2": -1.34,
+          "role3": 2.67
+        }
+      }
+    ],
+    "task_brief": "You are a \u003Cstrong\u003E{roleName}\u003C/strong\u003E on a team building a \u003Cstrong\u003E{productName}\u003C/strong\u003E. \u003Cbr/\u003E \u003Cbr/\u003E Your team has been working on this product for nearly a year. You're almost there. You just have to agree on final specs, and then it goes it production. \u003Cbr/\u003E \u003Cbr/\u003E Use the chatroom and make as many informal proposals as you want to find a product you can all agree on. It won't be easy! \u003Cbr/\u003E \u003Cbr/\u003E Try to earn as much as you can! But keep in mind, you might have to give something to get something."
+  },
+  "pilot_easy_scaled": {
+    "product_name": "Laptop",
+    "source": "1023_3_2 results_kwc.csv",
+    "viable_consensus": "3",
+    "roleNames": {
+      "role1": "Product Head",
+      "role2": "Designer",
+      "role3": "Technician"
+    },
+    "features": [
+      {
+        "name": "Fast Charging",
+        "bonus": {
           "role1": 1.10,
           "role2": -0.47,
           "role3": 0.11
