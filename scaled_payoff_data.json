@@ -135,7 +135,7 @@
                 }
             }
         ],
-        "task_brief": "You are working on a team project. Use the chatroom to finalize specs."
+        "task_brief": "You are a \u003Cstrong\u003E{roleName}\u003C/strong\u003E on a team building a \u003Cstrong\u003E{productName}\u003C/strong\u003E. \u003Cbr/\u003E \u003Cbr/\u003E Your team has been working on this product for nearly a year. You're almost there. You just have to agree on final specs, and then it goes it production. \u003Cbr/\u003E \u003Cbr/\u003E Use the chatroom and make as many informal proposals as you want to find a product you can all agree on. REMEMBER: You will naturally have DIFFERENT preferences (scores) for each product feature. So it won't be easy! \u003Cbr/\u003E \u003Cbr/\u003E Try to earn as much as you can! But keep in mind, you might have to give something to get something."
     },
     "pilot_easy_scaled": {
         "product_name": "Laptop",
@@ -230,6 +230,6 @@
                 }
             }
         ],
-        "task_brief": "You are working on a team project. Use the chatroom to finalize specs."
+        "task_brief": "You are a \u003Cstrong\u003E{roleName}\u003C/strong\u003E on a team building a \u003Cstrong\u003E{productName}\u003C/strong\u003E. \u003Cbr/\u003E \u003Cbr/\u003E Your team has been working on this product for nearly a year. You're almost there. You just have to agree on final specs, and then it goes it production. \u003Cbr/\u003E \u003Cbr/\u003E Use the chatroom and make as many informal proposals as you want to find a product you can all agree on. REMEMBER: You will naturally have DIFFERENT preferences (scores) for each product feature. So it won't be easy! \u003Cbr/\u003E \u003Cbr/\u003E Try to earn as much as you can! But keep in mind, you might have to give something to get something."
     }
 }
