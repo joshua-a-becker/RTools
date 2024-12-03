@@ -45,7 +45,7 @@
     "pilot_hard_scaled": {
         "product_name": "Laptop",
         "source": "1023_3_2 results_kwc.csv",
-        "viable_consensus": "3",
+        "viable_consensus": "5",
         "roleNames": {
             "role1": "Product Head",
             "role2": "Designer",
@@ -140,7 +140,7 @@
     "pilot_easy_scaled": {
         "product_name": "Laptop",
         "source": "1023_3_2 results_kwc.csv",
-        "viable_consensus": "3",
+        "viable_consensus": "5",
         "roleNames": {
             "role1": "Product Head",
             "role2": "Designer",
