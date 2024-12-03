@@ -1,0 +1,237 @@
+{
+    "walkthrough_features": {
+        "product_name": "Lunch Menu",
+        "roleNames": {
+            "role1": "Role 1",
+            "role2": "Role 2",
+            "role3": "Role 3",
+            "role4": "Role 4",
+            "role5": "Role 5"
+        },
+        "features": [
+            {
+                "name": "Feature 1",
+                "bonus": {}
+            },
+            {
+                "name": "Feature 2",
+                "bonus": {}
+            },
+            {
+                "name": "Feature 3",
+                "bonus": {}
+            },
+            {
+                "name": "Feature 4",
+                "bonus": {}
+            },
+            {
+                "name": "Feature 5",
+                "bonus": {}
+            },
+            {
+                "name": "Feature 6",
+                "bonus": {}
+            },
+            {
+                "name": "Feature 7",
+                "bonus": {}
+            },
+            {
+                "name": "Feature 8",
+                "bonus": {}
+            }
+        ],
+        "task_brief": "This is a sample task brief for a walkthrough."
+    },
+    "pilot_hard": {
+        "product_name": "Laptop",
+        "source": "1023_3_2 results_kwc.csv",
+        "viable_consensus": "3",
+        "roleNames": {
+            "role1": "Role 1",
+            "role2": "Role 2",
+            "role3": "Role 3",
+            "role4": "Role 4",
+            "role5": "Role 5"
+        },
+        "features": [
+            {
+                "name": "Fast Charging",
+                "bonus": {
+                    "role1": 1.173,
+                    "role2": -6.521999999999999,
+                    "role3": -1.2492,
+                    "role4": -0.36200000000000004,
+                    "role5": 3.4216
+                }
+            },
+            {
+                "name": "Ultra Thin",
+                "bonus": {
+                    "role1": 1.3515,
+                    "role2": 5.6524,
+                    "role3": 2.1514,
+                    "role4": -3.1132,
+                    "role5": -5.3298000000000005
+                }
+            },
+            {
+                "name": "AI Enhanced",
+                "bonus": {
+                    "role1": -2.4225,
+                    "role2": 9.2395,
+                    "role3": 2.2208,
+                    "role4": -1.3394,
+                    "role5": 1.7108
+                }
+            },
+            {
+                "name": "Long Battery Life",
+                "bonus": {
+                    "role1": -1.632,
+                    "role2": 9.022099999999998,
+                    "role3": 2.9148,
+                    "role4": -2.534,
+                    "role5": -4.9350000000000005
+                }
+            },
+            {
+                "name": "Light Weight",
+                "bonus": {
+                    "role1": -1.5554999999999999,
+                    "role2": -2.2826999999999997,
+                    "role3": 1.7003000000000001,
+                    "role4": -1.4842,
+                    "role5": 1.0528
+                }
+            },
+            {
+                "name": "Gaming Ready",
+                "bonus": {
+                    "role1": 0.6885,
+                    "role2": -2.2826999999999997,
+                    "role3": -2.8801,
+                    "role4": 3.3304,
+                    "role5": 3.29
+                }
+            },
+            {
+                "name": "Mechanical Keyboard",
+                "bonus": {
+                    "role1": 2.55,
+                    "role2": 3.0436,
+                    "role3": -2.0473,
+                    "role4": -0.1086,
+                    "role5": 4.1454
+                }
+            },
+            {
+                "name": "Solid State Disk",
+                "bonus": {
+                    "role1": 2.142,
+                    "role2": -10.000399999999999,
+                    "role3": 1.8391000000000002,
+                    "role4": 3.5114,
+                    "role5": -6.1852
+                }
+            }
+        ],
+        "task_brief": "You are working on a team project. Use the chatroom to finalize specs."
+    },
+    "pilot_easy": {
+        "product_name": "Laptop",
+        "source": "1023_3_2 results_kwc.csv",
+        "viable_consensus": "3",
+        "roleNames": {
+            "role1": "Role 1",
+            "role2": "Role 2",
+            "role3": "Role 3",
+            "role4": "Role 4",
+            "role5": "Role 5"
+        },
+        "features": [
+            {
+                "name": "Fast Charging",
+                "bonus": {
+                    "role1": -1.125,
+                    "role2": -4.487,
+                    "role3": -8.102799999999998,
+                    "role4": -0.7240000000000001,
+                    "role5": 1.0728
+                }
+            },
+            {
+                "name": "Ultra Thin",
+                "bonus": {
+                    "role1": 2.0625,
+                    "role2": 4.9998000000000005,
+                    "role3": -4.6548,
+                    "role4": -1.5566,
+                    "role5": 0.6705
+                }
+            },
+            {
+                "name": "AI Enhanced",
+                "bonus": {
+                    "role1": -1.625,
+                    "role2": -0.5128,
+                    "role3": 0.7757999999999999,
+                    "role4": 2.2806,
+                    "role5": 0.5066
+                }
+            },
+            {
+                "name": "Long Battery Life",
+                "bonus": {
+                    "role1": 1.625,
+                    "role2": 1.1538,
+                    "role3": -5.5168,
+                    "role4": -0.8326,
+                    "role5": 1.2813999999999999
+                }
+            },
+            {
+                "name": "Light Weight",
+                "bonus": {
+                    "role1": -3.75,
+                    "role2": 0.8974000000000001,
+                    "role3": -8.188999999999998,
+                    "role4": 1.7738,
+                    "role5": -0.2384
+                }
+            },
+            {
+                "name": "Gaming Ready",
+                "bonus": {
+                    "role1": 0.43750000000000006,
+                    "role2": -2.4999000000000002,
+                    "role3": 6.378799999999999,
+                    "role4": 1.7738,
+                    "role5": 1.3261
+                }
+            },
+            {
+                "name": "Mechanical Keyboard",
+                "bonus": {
+                    "role1": -4.4375,
+                    "role2": -2.1794000000000002,
+                    "role3": 2.7584,
+                    "role4": 0.4706,
+                    "role5": -0.3129
+                }
+            },
+            {
+                "name": "Solid State Disk",
+                "bonus": {
+                    "role1": -0.375,
+                    "role2": -2.1153,
+                    "role3": 0.3448,
+                    "role4": -1.81,
+                    "role5": -0.0298
+                }
+            }
+        ],
+        "task_brief": "You are working on a team project. Use the chatroom to finalize specs."
+    }
+}
