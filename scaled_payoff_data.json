@@ -1,50 +1,48 @@
 {
-    "walkthrough_features": {
-        "product_name": "Lunch Menu",
-        "roleNames": {
-            "role1": "Product Head",
-            "role2": "Designer",
-            "role3": "Technician",
-            "role4": "Engineer",
-            "role5": "Marketer"
-        },
-        "features": [
-            {
-                "name": "Feature 1",
-                "bonus": {}
-            },
-            {
-                "name": "Feature 2",
-                "bonus": {}
-            },
-            {
-                "name": "Feature 3",
-                "bonus": {}
-            },
-            {
-                "name": "Feature 4",
-                "bonus": {}
-            },
-            {
-                "name": "Feature 5",
-                "bonus": {}
-            },
-            {
-                "name": "Feature 6",
-                "bonus": {}
-            },
-            {
-                "name": "Feature 7",
-                "bonus": {}
-            },
-            {
-                "name": "Feature 8",
-                "bonus": {}
-            }
-        ],
-        "task_brief": "This is a sample task brief for a walkthrough."
+  "walkthrough_features": {
+    "product_name": "Lunch Menu",
+    "roleNames": {
+      "role1": "Lunch Attendee",
+      "role2": "Friend",
+      "role3": "Neighbor"
     },
-    "pilot_hard": {
+    "features": [
+      {
+        "name": "Sandwiches",
+        "bonus": {
+          "role1": 1,
+          "role2": -0.7,
+          "role3": -0.7
+        }
+      },
+      {
+        "name": "Pudding",
+        "bonus": {
+          "role1": -0.7,
+          "role2": 1,
+          "role3": -0.7
+        }
+      },
+      {
+        "name": "Tea and Biscuits",
+        "bonus": {
+          "role1": -0.7,
+          "role2": -0.7,
+          "role3": 1
+        }
+      },
+      {
+        "name": "Cucumber Water",
+        "bonus": {
+          "role1": 1,
+          "role2": -0.7,
+          "role3": -0.7
+        }
+      }
+    ],
+    "task_brief": "This is a \u003Cstrong\u003Edemonstration page\u003C/strong\u003E, you're not in the game yet. \u003Cbr/\u003E\u003Cbr/\u003E You are a {roleName} here to help organize a {productName}. \u003Cbr/\u003E \u003Cbr/\u003E You need to reach agreement with other players on what to include in lunch. \u003Cbr/\u003E \u003Cbr/\u003E You prefer some items, and want to avoid others. \u003Cbr/\u003E \u003Cbr/\u003E Preferred items are worth money, and undesired items cost money. \u003Cbr/\u003E \u003Cbr/\u003E Excluding features costs nothing."
+  },
+    "pilot_hard_scaled": {
         "product_name": "Laptop",
         "source": "1023_3_2 results_kwc.csv",
         "viable_consensus": "3",
@@ -139,7 +137,7 @@
         ],
         "task_brief": "You are working on a team project. Use the chatroom to finalize specs."
     },
-    "pilot_easy": {
+    "pilot_easy_scaled": {
         "product_name": "Laptop",
         "source": "1023_3_2 results_kwc.csv",
         "viable_consensus": "3",
