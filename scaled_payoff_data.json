@@ -42,7 +42,7 @@
         ],
         "task_brief": "This is a sample task brief for a walkthrough."
     },
-    "pilot_hard": {
+    "pilot_hard_scaled": {
         "product_name": "Laptop",
         "source": "1023_3_2 results_kwc.csv",
         "viable_consensus": "3",
@@ -119,7 +119,7 @@
         ],
         "task_brief": "You are working on a team project. Use the chatroom to finalize specs."
     },
-    "pilot_easy": {
+    "pilot_easy_scaled": {
         "product_name": "Laptop",
         "source": "1023_3_2 results_kwc.csv",
         "viable_consensus": "3",
