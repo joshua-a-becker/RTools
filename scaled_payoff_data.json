@@ -5,6 +5,8 @@
       "role1": "Lunch Attendee",
       "role2": "Friend",
       "role3": "Neighbor"
+      "role4": "Buddy"
+      "role5": "Friend's mom"
     },
     "features": [
       {
@@ -12,31 +14,39 @@
         "bonus": {
           "role1": 1,
           "role2": -0.7,
-          "role3": -0.7
+          "role3": -0.7,
+          "role4": 1.3,
+          "role5": 0.8
         }
       },
       {
         "name": "Pudding",
         "bonus": {
-          "role1": -0.7,
-          "role2": 1,
-          "role3": -0.7
+          "role1": 1,
+          "role2": -0.5,
+          "role3": -0.3,
+          "role4": 0.3,
+          "role5": 0.7
         }
       },
       {
         "name": "Tea and Biscuits",
         "bonus": {
-          "role1": -0.7,
-          "role2": -0.7,
-          "role3": 1
+          "role1": 1,
+          "role2": -0.5,
+          "role3": -0.3,
+          "role4": 0.5,
+          "role5": 0.4
         }
       },
       {
         "name": "Cucumber Water",
         "bonus": {
           "role1": 1,
-          "role2": -0.7,
-          "role3": -0.7
+          "role2": 1.5,
+          "role3": -0.7,
+          "role4": 0.8,
+          "role5": 0.8
         }
       }
     ],
